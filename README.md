@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ilham, a Software and WebApp developer. <br>Currently studying at Institut Teknologi Bandung (ITB).<br>Based in Bandung, Indonesia.
+Hi 👋, I'm Ilham, a Software and WebApp developer. <br>Software Enginering (Teknologi Informasi) at at Institut Teknologi Bandung (ITB).<br>Based in Bandung, Indonesia.
 
 
 ## 🌐 Socials:
